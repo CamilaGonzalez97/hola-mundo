@@ -2,5 +2,6 @@
 
 mi primer repositorio en Github
 
-i love: gym:,: cafe:,
-i love :cats and dog:
+i love: gym: : cafe:
+
+i love :cat: and :dog:
